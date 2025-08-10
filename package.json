@@ -1,0 +1,27 @@
+{
+  "name": "http-sarcasm-codes",
+  "version": "1.0.0",
+  "description": "Sarcastic, witty responses for HTTP status codes. Perfect for adding humor to APIs.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "http",
+    "status",
+    "codes",
+    "sarcastic",
+    "funny",
+    "api",
+    "developer-jokes",
+    "error-messages"
+  ],
+  "author": "Maryam593",
+  "license": "MIT",
+  "homepage": "https://github.com/Maryam593/http-sarcasm-codes#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maryam593/http-sarcasm-codes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Maryam593/http-sarcasm-codes/issues"
+  }
+}
