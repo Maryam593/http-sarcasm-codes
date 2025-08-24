@@ -5,7 +5,7 @@ const ExcuseAPI = express();
 let excuse = {}; // Initialize excuse as an empty object
 
 try {
-    const fileData = fs.readFileSync('errorCodes.json', 'utf8');
+    const fileData = fs.readFileSync('./errorCodes.json', 'utf8');
     excuse = JSON.parse(fileData);
     console.log('Error codes loaded successfully!');
 } catch (error) {
