@@ -1,7 +1,7 @@
 {
   "name": "http-sarcasm-codes",
-  "version": "1.0.0",
-  "description": "Sarcastic, witty responses for HTTP status codes. Perfect for adding humor to APIs.",
+  "version": "2.0.0",
+  "description": "Sarcastic, witty responses for HTTP status codes using EXCUSE API. Perfect for adding humor to APIs.",
   "main": "index.js",
   "type": "module",
   "scripts": {
