@@ -4,6 +4,10 @@
   "description": "Sarcastic, witty responses for HTTP status codes. Perfect for adding humor to APIs.",
   "main": "index.js",
   "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
   "keywords": [
     "http",
     "status",
@@ -23,5 +27,9 @@
   },
   "bugs": {
     "url": "https://github.com/Maryam593/http-sarcasm-codes/issues"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   }
 }
