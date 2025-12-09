@@ -1,4 +1,5 @@
 # HTTP Sarcasm Codes 🙃
+[![npm](https://img.shields.io/npm/dt/http-sarcasm-codes?style=for-the-badge)](https://www.npmjs.com/package/http-sarcasm-codes)
 
 Ever wanted your API to roast your users instead of just sending boring status codes?  
 Welcome to **HTTP Sarcasm Codes**—because your server deserves a sense of humor.  
